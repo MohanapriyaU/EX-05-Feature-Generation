@@ -103,7 +103,7 @@ df.head(10)
 
 ![image](https://user-images.githubusercontent.com/103166779/195505738-a54b49c4-5679-4b2c-8206-4700119d403c.png)
 
-#Encoding.csv
+# Encoding.csv
 ![image](https://user-images.githubusercontent.com/103166779/195505926-709768cf-6e3b-4026-ab3b-c41354e5b34b.png)
 
 ![image](https://user-images.githubusercontent.com/103166779/195506002-84475387-60a7-4e9d-a82a-2d45bfb7626b.png)
