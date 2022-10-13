@@ -94,24 +94,37 @@ df.head(10)
 # OUPUT
 # Data.csv
 ![image](https://user-images.githubusercontent.com/103166779/195505218-bb3e7b02-c885-4d63-98f3-050782e58fbd.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195505336-b9a53b17-496e-4b15-b089-7bcba3d2fb23.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195505575-dc9e11a8-c85c-404c-ad2b-dbe81642f178.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195505674-724c48aa-03ce-4737-ae44-16e5e40891fa.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195505738-a54b49c4-5679-4b2c-8206-4700119d403c.png)
 
 #Encoding.csv
 ![image](https://user-images.githubusercontent.com/103166779/195505926-709768cf-6e3b-4026-ab3b-c41354e5b34b.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506002-84475387-60a7-4e9d-a82a-2d45bfb7626b.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506088-7046df2d-aa26-40b0-8e3a-ca3aa5c6d407.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506171-79ec4c89-bd66-4ae5-81e3-53912df3bb49.png)
 
 # Titanic.csv
 ![image](https://user-images.githubusercontent.com/103166779/195506319-8bd3400e-78b7-4a3a-94ac-7507fcee13ac.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506415-138dfb67-1807-41f2-8b1d-bcfa28efab67.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506503-40ccee17-21af-4c63-ba01-56b5d7fcde87.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506570-4ddbc3b8-a056-46b3-890a-e6dc1fccdaa6.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506647-7fd7211d-7984-403f-8cb2-5b702f24498f.png)
+
 ![image](https://user-images.githubusercontent.com/103166779/195506740-662db2b2-cb43-45e3-b586-f4d875408d7d.png)
+
 
 # RESULT:
    Thus the program for Feature Generation is executed successfully.
