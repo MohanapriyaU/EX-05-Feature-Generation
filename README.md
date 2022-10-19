@@ -1,26 +1,25 @@
-# EX-05-Feature-Generation
 
+EX-05-Feature-Generation
+AIM
+To read the given data and perform Feature Generation process and save the data to a file.
 
-## AIM
-To read the given data and perform Feature Generation process and save the data to a file. 
-
-# Explanation
+Explanation
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
- 
 
-# ALGORITHM
-### STEP 1
+ALGORITHM
+STEP 1
 Read the given Data
-### STEP 2
+
+STEP 2
 Clean the Data Set using Data Cleaning Process
-### STEP 3
+
+STEP 3
 Apply Feature Generation techniques to all the feature of the data set
-### STEP 4
+
+STEP 4
 Save the data to the file
 
-
-# CODE
-~~~
+CODE
 # data.csv
 import pandas as pd
 import seaborn as sbn
@@ -89,44 +88,39 @@ dt = pd.get_dummies(dt, prefix=['Ticket'] ,columns=['Ticket'])
 df.head(10)
 dt = pd.get_dummies(dt, prefix=['Embarked'] ,columns=['Embarked'])
 df.head(10)
-~~~
+OUPUT
+Data.csv
+image
 
-# OUPUT
-# Data.csv
-![image](https://user-images.githubusercontent.com/103166779/195505218-bb3e7b02-c885-4d63-98f3-050782e58fbd.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195505336-b9a53b17-496e-4b15-b089-7bcba3d2fb23.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195505575-dc9e11a8-c85c-404c-ad2b-dbe81642f178.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195505674-724c48aa-03ce-4737-ae44-16e5e40891fa.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195505738-a54b49c4-5679-4b2c-8206-4700119d403c.png)
+Encoding.csv
+image
 
-# Encoding.csv
-![image](https://user-images.githubusercontent.com/103166779/195505926-709768cf-6e3b-4026-ab3b-c41354e5b34b.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506002-84475387-60a7-4e9d-a82a-2d45bfb7626b.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506088-7046df2d-aa26-40b0-8e3a-ca3aa5c6d407.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506171-79ec4c89-bd66-4ae5-81e3-53912df3bb49.png)
+Titanic.csv
+image
 
-# Titanic.csv
-![image](https://user-images.githubusercontent.com/103166779/195506319-8bd3400e-78b7-4a3a-94ac-7507fcee13ac.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506415-138dfb67-1807-41f2-8b1d-bcfa28efab67.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506503-40ccee17-21af-4c63-ba01-56b5d7fcde87.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506570-4ddbc3b8-a056-46b3-890a-e6dc1fccdaa6.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506647-7fd7211d-7984-403f-8cb2-5b702f24498f.png)
+image
 
-![image](https://user-images.githubusercontent.com/103166779/195506740-662db2b2-cb43-45e3-b586-f4d875408d7d.png)
-
-
-# RESULT:
-   Thus the program for Feature Generation is executed successfully.
-
-
+RESULT:
+Thus the program for Feature Generation is executed successfully.
